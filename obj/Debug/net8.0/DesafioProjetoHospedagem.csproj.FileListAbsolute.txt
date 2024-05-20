@@ -1,0 +1,14 @@
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\DesafioProjetoHospedagem\obj\Debug\net8.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\DesafioProjetoHospedagem\obj\Debug\net8.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\DesafioProjetoHospedagem\obj\Debug\net8.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\DesafioProjetoHospedagem\obj\Debug\net8.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\DesafioProjetoHospedagem\bin\Debug\net8.0\DesafioProjetoHospedagem.exe
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\DesafioProjetoHospedagem\bin\Debug\net8.0\DesafioProjetoHospedagem.deps.json
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\DesafioProjetoHospedagem\bin\Debug\net8.0\DesafioProjetoHospedagem.runtimeconfig.json
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\DesafioProjetoHospedagem\bin\Debug\net8.0\DesafioProjetoHospedagem.dll
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\DesafioProjetoHospedagem\bin\Debug\net8.0\DesafioProjetoHospedagem.pdb
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\DesafioProjetoHospedagem\obj\Debug\net8.0\DesafioProjetoHospedagem.dll
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\DesafioProjetoHospedagem\obj\Debug\net8.0\refint\DesafioProjetoHospedagem.dll
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\DesafioProjetoHospedagem\obj\Debug\net8.0\DesafioProjetoHospedagem.pdb
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\DesafioProjetoHospedagem\obj\Debug\net8.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\DesafioProjetoHospedagem\obj\Debug\net8.0\ref\DesafioProjetoHospedagem.dll
